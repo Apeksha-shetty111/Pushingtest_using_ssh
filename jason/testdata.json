@@ -1,0 +1,14 @@
+{
+   "username":"Apeksha@gmail.com",
+   "password":"admin123",
+   "name":"Apeksha",
+   "interest":["Cypress","Java","API"],
+   "gender":"Male",
+   "address":{
+               "area":"hsr",
+               "city":"bangalore",
+               "pincode":509684
+   }
+
+
+}

@@ -2,14 +2,18 @@
   "name": "testing",
   "version": "1.0.0",
   "main": "index.js",
+  "type":"module",
   "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@faker-js/faker": "^9.4.0",
     "@playwright/test": "^1.49.1",
     "@types/node": "^22.10.4",
-    "allure-playwright": "^3.0.8"
+    "allure-playwright": "^3.0.8",
+    "luxon": "^3.5.0",
+    "rimraf": "^6.0.1"
   }
 }
